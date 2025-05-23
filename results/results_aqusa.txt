@@ -1,0 +1,57 @@
+Story #1: "I want to see an error when I cannot see recommendations after I upload an article."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #1: "I want to see an error when I cannot see recommendations after I upload an article."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #2: "As a User, I am able to click a particular location from the map and thereby perform a search of landmarks associated with that latitude longitude combination."
+   Defect type: atomic.conjunctions
+   Message: As a User, I am able to click a particular location from the map [* and *] thereby perform a search of landmarks associated with that latitude longitude combination.
+Story #3: "As a care professional, I want to see the registered hours of this week (split into products and activities). See: Mockup from Alice NOTE—first create the overview screen—then add validations."
+   Defect type: atomic.conjunctions
+   Message: As a care professional, I want to see the registered hours of this week (split into products [* and *] activities). See: Mockup from Alice NOTE—first create the overview screen—then add validations.
+Story #3: "As a care professional, I want to see the registered hours of this week (split into products and activities). See: Mockup from Alice NOTE—first create the overview screen—then add validations."
+   Defect type: minimal.punctuation
+   Message: As a care professional, I want to see the registered hours of this week (split into products and activities) [*. See: Mockup from Alice NOTE—first create the overview screen—then add validations.*] 
+Story #3: "As a care professional, I want to see the registered hours of this week (split into products and activities). See: Mockup from Alice NOTE—first create the overview screen—then add validations."
+   Defect type: minimal.brackets
+   Message: As a care professional, I want to see the registered hours of this week  [*(split into products and activities)*] . See: Mockup from Alice NOTE—first create the overview screen—then add validations.
+Story #5: "As a care professional I want to save a reimbursement—add save button on top right (never grayed out)."
+   Defect type: minimal.brackets
+   Message: As a care professional I want to save a reimbursement—add save button on top right  [*(never grayed out)*] .
+Story #9: "Server configuration"
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #9: "Server configuration"
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #9: "Server configuration"
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #10: "As a care professional I want to see my route list for next/future days, so that I can prepare myself (for example I can see at what time I should start traveling)."
+   Defect type: minimal.brackets
+   Message: As a care professional I want to see my route list for next/future days, so that I can prepare myself  [*(for example i can see at what time i should start traveling)*] .
+Story #10: "As a care professional I want to see my route list for next/future days, so that I can prepare myself (for example I can see at what time I should start traveling)."
+   Defect type: minimal.indicator_repetition
+   Message: As a care professional [* I want to *] see my route list for next/future days, so that I can prepare myself (for example [* I can *] see at what time I should start traveling).
+Story #12: "As a Visitor, I am able to see a list of news items, so that I stay up to date."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #13: "As an Administrator, I receive an email notification when a new user is registered."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #3: "As a care professional, I want to see the registered hours of this week (split into products and activities). See: Mockup from Alice NOTE—first create the overview screen—then add validations."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I am able to, So that
+Story #4: "As a User, I want to open the interactive map, so that I can see the location of landmarks."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I am able to, So that
+Story #5: "As a care professional I want to save a reimbursement—add save button on top right (never grayed out)."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I am able to, So that
+Story #10: "As a care professional I want to see my route list for next/future days, so that I can prepare myself (for example I can see at what time I should start traveling)."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I am able to, So that
+Story #13: "As an Administrator, I receive an email notification when a new user is registered."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I am able to, So that

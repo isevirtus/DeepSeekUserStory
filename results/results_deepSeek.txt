@@ -1,0 +1,78 @@
+Story #1: "I want to see an error when I cannot see recommendations after I upload an article."
+Defect type: well_formed.no_role
+Message: Add for who this story is.
+
+Defect type: well_formed.no_means
+Message: Add what you want to achieve (clarify the action/outcome).
+
+Story #2: "As a User, I am able to click a particular location from the map and thereby perform a search of landmarks associated with that latitude longitude combination."
+Defect type: atomic.conjunctions
+Message: Split into atomic actions: (1) click location, (2) search landmarks by coordinates.
+
+Story #3: "As a care professional, I want to see the registered hours of this week (split into products and activities). See: Mockup from Alice NOTE—first create the overview screen—then add validations."
+Defect type: minimal.punctuation
+Message: Remove supplemental notes from the main text. Place in separate documentation.
+
+Defect type: minimal.brackets
+Message: Remove "(split into products and activities)" or clarify in acceptance criteria.
+
+Story #4: "As a User, I want to open the interactive map, so that I can see the location of landmarks."
+
+No defects.
+
+Story #5: "As a care professional I want to save a reimbursement—add save button on top right (never grayed out)."
+
+Defect type: minimal.brackets
+Message: Remove "(never grayed out)" or move to acceptance criteria.
+
+Story #6: "As a User, I am able to edit the content that I added to a person’s profile page."
+
+Defect type: uniform.uniform
+Message: Use the most common template: "As a [role], I want to [action], so that [benefit]."
+
+Story #7: "As a User, I am able to edit any landmark."
+
+Defect type: uniform.uniform
+Message: Use the most common template: "As a [role], I want to [action], so that [benefit]."
+
+Story #8: "As a User, I am able to delete only the landmarks that I added."
+
+Defect type: uniform.uniform
+Message: Use the most common template: "As a [role], I want to [action], so that [benefit]."
+
+Story #9: "Server configuration"
+
+Defect type: well_formed.no_role
+Message: Add for who this story is.
+
+Defect type: well_formed.no_means
+Message: Add what you want to achieve.
+
+Story #10: "As a care professional I want to see my route list for next/future days, so that I can prepare myself (for example I can see at what time I should start traveling)."
+
+Defect type: minimal.brackets
+Message: Remove "(for example...)" or move to acceptance criteria.
+
+Story #11: "As a Visitor, I am able to see a list of news items, so that I stay up to date."
+
+No defects.
+
+Story #12: "As a Visitor, I am able to see a list of news items, so that I stay up to date."
+
+Defect type: unique.identical
+Message: Remove duplicate of Story #11.
+
+Story #13: "As an Administrator, I receive an email notification when a new user is registered."
+
+Defect type: uniform.uniform
+Message: Use the most common template: "As a [role], I want to [action], so that [benefit]."
+
+Story #14: "As an Administrator, I am able to add a new person to the database."
+
+Defect type: uniform.uniform
+Message: Use the most common template: "As a [role], I want to [action], so that [benefit]."
+
+Story #15: "As a Visitor, I am able to view a person’s profile."
+
+Defect type: uniform.uniform
+Message: Use the most common template: "As a [role], I want to [action], so that [benefit]."
